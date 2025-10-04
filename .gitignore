@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated files
+yield_comparison.png
+
+# Environment variables
+.env
